@@ -14,4 +14,5 @@ Custom object detection using computer vision
 8. Now Go to 2_predictions folder inside the third_project folder
 9. Now Go Run 02_pred_yolo.ipynb file which is present third_project/2_predictions/02_pred_yolo.ipynb
 10. You can see the result.
-11 Video link
+11. Video link [video](https://drive.google.com/file/d/1jfwqUtcmVwTMTy8s6Z8y6vm3zPhGYLAm/view) in third_Video is for this project.
+12. 
