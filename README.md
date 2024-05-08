@@ -8,7 +8,7 @@ Custom object detection using computer vision
 2. Extract all file and folder current Directory(Name as third_project).
 3. Open Cmd(Command Prompt)
 4. Create vertual Environment name as yolo_venv
-5. Install some necessary libraries with [requirement.txt](requirements.txt) in yolo_venv folder.
+5. Install some necessary libraries with [requirement.txt](requirements.txt) in yolo_venv folder. Using cammand "pip install -r requirements.txt"
 6. Activate vertual environmet.
 7. Open jupyter notebook.
 8. Now Go to 2_predictions folder inside the third_project folder
